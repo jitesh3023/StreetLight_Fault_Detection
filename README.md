@@ -1,4 +1,4 @@
-# Project-
+# Project- StreetLight_Fault_Detection
 
 ### Team name: 1/cosc
 
@@ -7,7 +7,7 @@
 - Shamit Savant – shamitsavant1919@gmail.com
 - Jitesh Sonkusare - jitesh3023@gmail.com
 - Asish Kumar Nayak - akn8b18@gmail.com
-- Shubham Singh - Email
+- Shubham Singh - sbhsingh616@gmail.com
 - Sarvesh Ghadge - sghadge196@gmail.com
 - Sharvari Borole - sharvariborole24@gmail.com
 
